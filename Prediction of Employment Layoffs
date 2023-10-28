@@ -1,0 +1,3 @@
+Employee Attrition Prediction
+Given data about employees at a company, let's try to predict whether a given employee will leave the company or not.
+We will use a variety of classification models to make our predictions.
